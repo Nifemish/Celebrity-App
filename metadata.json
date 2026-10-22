@@ -1,0 +1,6 @@
+{
+  "name": "AURA PRIVÉ — Luxury Celeb-Connect & Aviation SaaS",
+  "description": "Multi-tenant luxury SaaS platform enabling A-list celebrities and icons to curate ultra-VIP events, private jet charters, and exclusive fan engagements with Stripe Connect split architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
